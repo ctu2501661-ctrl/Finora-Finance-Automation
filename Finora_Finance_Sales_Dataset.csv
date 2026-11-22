@@ -1,0 +1,101 @@
+Record_ID,Date,Region,Product,Marketing_Channel,Leads,Conversions,Potential_Value_INR,Weighted_Conversion_Value_INR
+FIN0001,2026-03-26,West,Insurance Plan,Email,11,4,112000,40727.27
+FIN0002,2026-09-01,South,Tax Consultation,Website,9,8,51000,45333.33
+FIN0003,2026-01-08,South,Savings Plan,Email,2,0,114000,0.0
+FIN0004,2026-01-22,North,Insurance Plan,Social Media,10,7,109000,76300.0
+FIN0005,2026-10-04,North,Insurance Plan,Email,11,5,34000,15454.55
+FIN0006,2026-02-15,Central,Personal Loan,Social Media,8,2,10000,2500.0
+FIN0007,2026-07-25,West,Insurance Plan,Email,3,0,43000,0.0
+FIN0008,2026-02-08,Central,Business Loan,Website,11,10,58000,52727.27
+FIN0009,2026-03-04,South,Tax Consultation,Social Media,9,6,126000,84000.0
+FIN0010,2026-03-16,West,Tax Consultation,Walk-in,5,2,109000,43600.0
+FIN0011,2026-07-17,North,Savings Plan,Website,7,4,129000,73714.29
+FIN0012,2026-03-23,Central,Insurance Plan,Walk-in,8,1,5000,625.0
+FIN0013,2026-09-25,North,Business Loan,Email,9,9,86000,86000.0
+FIN0014,2026-03-29,Central,Savings Plan,Social Media,6,6,90000,90000.0
+FIN0015,2026-05-06,West,Personal Loan,Social Media,2,0,48000,0.0
+FIN0016,2026-03-23,West,Personal Loan,Email,11,3,138000,37636.36
+FIN0017,2026-01-08,South,Savings Plan,Email,9,6,130000,86666.67
+FIN0018,2026-03-25,West,Tax Consultation,Website,8,6,22000,16500.0
+FIN0019,2026-05-28,North,Personal Loan,Referral,11,4,71000,25818.18
+FIN0020,2026-05-08,South,Business Loan,Email,2,1,105000,52500.0
+FIN0021,2026-09-03,North,Personal Loan,Email,3,3,69000,69000.0
+FIN0022,2026-07-07,West,Business Loan,Walk-in,10,6,99000,59400.0
+FIN0023,2026-09-02,East,Savings Plan,Email,9,9,40000,40000.0
+FIN0024,2026-01-06,Central,Insurance Plan,Social Media,1,1,37000,37000.0
+FIN0025,2026-05-08,West,Tax Consultation,Email,5,5,112000,112000.0
+FIN0026,2026-03-10,South,Business Loan,Website,7,1,29000,4142.86
+FIN0027,2026-08-17,East,Business Loan,Email,2,2,23000,23000.0
+FIN0028,2026-06-05,South,Tax Consultation,Walk-in,7,7,88000,88000.0
+FIN0029,2026-03-27,Central,Business Loan,Website,7,3,52000,22285.71
+FIN0030,2026-09-16,North,Personal Loan,Referral,7,7,7000,7000.0
+FIN0031,2026-10-18,Central,Business Loan,Social Media,5,5,64000,64000.0
+FIN0032,2026-01-22,East,Business Loan,Walk-in,3,2,104000,69333.33
+FIN0033,2026-10-09,North,Insurance Plan,Walk-in,9,9,30000,30000.0
+FIN0034,2026-06-15,Central,Tax Consultation,Walk-in,5,5,84000,84000.0
+FIN0035,2026-10-15,South,Business Loan,Social Media,10,5,21000,10500.0
+FIN0036,2026-02-03,North,Savings Plan,Referral,2,0,112000,0.0
+FIN0037,2026-09-16,West,Tax Consultation,Referral,11,10,10000,9090.91
+FIN0038,2026-09-22,South,Tax Consultation,Website,7,1,104000,14857.14
+FIN0039,2026-01-25,Central,Insurance Plan,Referral,4,2,15000,7500.0
+FIN0040,2026-08-07,East,Insurance Plan,Referral,7,6,65000,55714.29
+FIN0041,2026-04-27,West,Personal Loan,Social Media,8,2,14000,3500.0
+FIN0042,2026-04-21,West,Insurance Plan,Referral,4,3,72000,54000.0
+FIN0043,2026-06-06,South,Tax Consultation,Social Media,9,0,102000,0.0
+FIN0044,2026-04-14,Central,Savings Plan,Email,3,0,105000,0.0
+FIN0045,2026-02-10,West,Tax Consultation,Website,10,6,82000,49200.0
+FIN0046,2026-03-27,East,Insurance Plan,Walk-in,11,5,57000,25909.09
+FIN0047,2026-04-07,Central,Savings Plan,Social Media,1,1,25000,25000.0
+FIN0048,2026-03-20,East,Tax Consultation,Referral,4,4,56000,56000.0
+FIN0049,2026-03-22,West,Insurance Plan,Walk-in,7,6,124000,106285.71
+FIN0050,2026-05-24,North,Business Loan,Email,10,4,103000,41200.0
+FIN0051,2026-04-21,East,Personal Loan,Website,11,11,94000,94000.0
+FIN0052,2026-02-08,West,Tax Consultation,Email,7,7,15000,15000.0
+FIN0053,2026-01-04,South,Tax Consultation,Referral,2,1,42000,21000.0
+FIN0054,2026-07-09,Central,Personal Loan,Referral,3,1,99000,33000.0
+FIN0055,2026-09-29,West,Personal Loan,Walk-in,4,3,84000,63000.0
+FIN0056,2026-05-06,North,Business Loan,Referral,1,0,124000,0.0
+FIN0057,2026-04-07,Central,Business Loan,Walk-in,8,8,20000,20000.0
+FIN0058,2026-09-09,South,Insurance Plan,Social Media,3,2,91000,60666.67
+FIN0059,2026-05-28,North,Savings Plan,Email,2,2,7000,7000.0
+FIN0060,2026-09-20,East,Personal Loan,Website,6,2,53000,17666.67
+FIN0061,2026-03-24,West,Personal Loan,Email,5,5,131000,131000.0
+FIN0062,2026-01-17,East,Personal Loan,Referral,6,4,64000,42666.67
+FIN0063,2026-04-12,East,Business Loan,Email,7,1,139000,19857.14
+FIN0064,2026-04-20,Central,Tax Consultation,Email,6,4,15000,10000.0
+FIN0065,2026-01-11,West,Savings Plan,Website,8,2,131000,32750.0
+FIN0066,2026-05-24,Central,Personal Loan,Walk-in,11,10,60000,54545.45
+FIN0067,2026-02-27,East,Savings Plan,Website,4,3,104000,78000.0
+FIN0068,2026-06-30,West,Business Loan,Email,10,0,72000,0.0
+FIN0069,2026-04-04,South,Tax Consultation,Walk-in,7,3,133000,57000.0
+FIN0070,2026-10-12,South,Savings Plan,Referral,6,0,120000,0.0
+FIN0071,2026-04-02,Central,Savings Plan,Email,11,5,143000,65000.0
+FIN0072,2026-01-14,South,Insurance Plan,Website,11,11,11000,11000.0
+FIN0073,2026-04-19,East,Tax Consultation,Website,6,4,138000,92000.0
+FIN0074,2026-03-24,West,Business Loan,Referral,10,10,113000,113000.0
+FIN0075,2026-04-08,West,Business Loan,Email,3,3,69000,69000.0
+FIN0076,2026-09-08,South,Insurance Plan,Website,1,1,72000,72000.0
+FIN0077,2026-06-22,South,Tax Consultation,Email,5,5,117000,117000.0
+FIN0078,2026-03-23,North,Insurance Plan,Walk-in,7,0,41000,0.0
+FIN0079,2026-06-01,South,Tax Consultation,Walk-in,4,3,122000,91500.0
+FIN0080,2026-09-05,South,Personal Loan,Referral,6,6,11000,11000.0
+FIN0081,2026-06-20,Central,Insurance Plan,Website,7,7,95000,95000.0
+FIN0082,2026-05-12,West,Personal Loan,Website,11,4,100000,36363.64
+FIN0083,2026-04-12,East,Tax Consultation,Email,2,2,90000,90000.0
+FIN0084,2026-03-08,Central,Business Loan,Social Media,2,2,72000,72000.0
+FIN0085,2026-04-22,West,Tax Consultation,Email,3,3,57000,57000.0
+FIN0086,2026-01-17,South,Savings Plan,Email,6,0,138000,0.0
+FIN0087,2026-05-26,North,Personal Loan,Walk-in,7,0,72000,0.0
+FIN0088,2026-09-19,West,Personal Loan,Walk-in,10,7,64000,44800.0
+FIN0089,2026-10-03,East,Tax Consultation,Email,7,0,100000,0.0
+FIN0090,2026-06-27,West,Insurance Plan,Walk-in,11,10,118000,107272.73
+FIN0091,2026-04-25,South,Insurance Plan,Walk-in,1,1,64000,64000.0
+FIN0092,2026-10-26,South,Personal Loan,Website,8,2,93000,23250.0
+FIN0093,2026-05-19,North,Savings Plan,Referral,5,1,89000,17800.0
+FIN0094,2026-04-06,South,Business Loan,Email,1,0,43000,0.0
+FIN0095,2026-10-10,West,Personal Loan,Website,9,1,47000,5222.22
+FIN0096,2026-03-05,North,Business Loan,Email,9,0,58000,0.0
+FIN0097,2026-04-23,South,Tax Consultation,Referral,2,0,150000,0.0
+FIN0098,2026-10-23,East,Tax Consultation,Social Media,7,4,7000,4000.0
+FIN0099,2026-08-02,Central,Personal Loan,Referral,1,1,132000,132000.0
+FIN0100,2026-04-04,East,Personal Loan,Walk-in,5,3,25000,15000.0
